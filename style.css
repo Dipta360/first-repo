@@ -7,3 +7,9 @@ h2{
     color: red;
     font-size: 35px;
 }
+p{
+    width: 650px;
+    margin: auto;
+    text-align: justify;
+    font-size: 20px;
+}
