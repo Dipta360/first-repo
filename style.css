@@ -13,3 +13,9 @@ p{
     text-align: justify;
     font-size: 20px;
 }
+div{
+    width: 680px;
+    margin: auto;
+    border: 1px solid blue;
+    padding-bottom: 10px;
+}
